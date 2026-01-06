@@ -18,6 +18,3 @@ orjson==3.9.10
 # Optional: For CORS if not already in main.py
 fastapi[all]==0.104.1
 
-# Development tools (optional)
-pytest==7.4.3
-httpx==0.25.1
